@@ -1,0 +1,2 @@
+# blazorbasicproject
+first github project
